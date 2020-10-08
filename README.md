@@ -1,5 +1,5 @@
 
-# Magnifier
+# AcheFácilJP
 > Uma plataforma com multiplas API's para consultas porcessuais e enriquecimento de cadastros. 
 
 ## Informações Técnicas
